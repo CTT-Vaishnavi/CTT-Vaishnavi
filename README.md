@@ -2,9 +2,10 @@
 
 ### 💻 MERN Stack Developer | 🌐 Web Developer | 🚀 Tech Enthusiast
 <p align="center">
-  <img src="https://github.com/CTT-Vaishnavi/CTT-Vaishnavi/blob/main/3f1b3e7c-078c-44d3-b7a5-4ef7a0cb1686.jpg" 
+  <img src="https://github.com/CTT-Vaishnavi/CTT-Vaishnavi/blob/main/IMG-20260502-WA0008-removebg-preview.png" 
        alt="Anime Girl" 
        width="250"
+       style="animation: float 3s ease-in-out infinite;"
        />
 </p>
 <p align="center">
