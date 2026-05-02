@@ -1,11 +1,12 @@
 <!-- HERO SECTION -->
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=FF69B4&size=26&center=true&vCenter=true&width=800&lines=Designing+Beautiful+Web+Experiences;Building+Full+Stack+Applications;Turning+Ideas+Into+Reality;Always+Learning+%F0%9F%92%AA" />
-</p>
 
 <h1 align="center">🌸 Vaishnavi Shinde</h1>
 
 <h3 align="center">💻 MERN Stack Developer | 🌐 Web Designer | 🚀 Tech Explorer</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=FF69B4&size=26&center=true&vCenter=true&width=800&lines=Designing+Beautiful+Web+Experiences;Building+Full+Stack+Applications;Turning+Ideas+Into+Reality;Always+Learning+%F0%9F%92%AA" />
+</p>
 
 
 <p align="center">
