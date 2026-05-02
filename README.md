@@ -1,102 +1,119 @@
-# 🌸 Hi, I'm Vaishnavi Shinde 👋
+<!-- HEADER -->
+<h1 align="center">🌸 Hi, I'm Vaishnavi Shinde 👋</h1>
 
-### 💻 MERN Stack Developer | 🌐 Web Developer | 🚀 Tech Enthusiast
+<h3 align="center">
+💻 MERN Stack Developer • 🌐 Web Developer • 🚀 Tech Enthusiast
+</h3>
+
+<!-- PROFILE IMAGE -->
 <p align="center">
   <img src="https://github.com/CTT-Vaishnavi/CTT-Vaishnavi/blob/main/IMG-20260502-WA0008-removebg-preview.png" 
-       alt="Anime Girl" 
-       width="250"
-       style="animation: float 3s ease-in-out infinite;"
-       />
+       width="220"
+       style="border-radius:50%; box-shadow: 0 0 25px rgba(255,105,180,0.6);" />
 </p>
+
+<!-- TYPING EFFECT -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=F78C6C&size=24&center=true&vCenter=true&width=650&lines=Full+Stack+MERN+Developer;Building+Modern+Web+Applications;Passionate+About+Coding+%26+Innovation;Always+Learning+New+Technologies" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=FF69B4&size=24&center=true&vCenter=true&width=700&lines=Full+Stack+MERN+Developer;Building+Modern+Web+Apps;Creative+Frontend+Designer;Always+Learning+%F0%9F%92%AA" />
 </p>
 
 ---
 
-## 🌟 About Me
+## 🌷 About Me
 
-✨ I'm a Computer Engineering student who loves building **modern, responsive, and user-friendly web applications**.
-💡 I enjoy turning ideas into real-world projects using the **MERN Stack**.
-
-* 🎓 Final Year CSE Student
-* 💻 Focused on **Full Stack Development**
-* 🌱 Currently learning **Advanced MERN & AI Integration**
-* 🚀 Interested in building scalable web apps
-* 🎯 Goal: Become a **Professional Full Stack Developer**
+<p align="center">
+✨ Turning ideas into real-world web applications with clean UI & strong backend logic  
+💡 Passionate about creating smooth user experiences  
+🚀 Always exploring new tech and improving skills  
+</p>
 
 ---
 
-## 🛠️ Tech Stack
+## 🧩 Quick Info
+
+<div align="center">
+
+🎓 Final Year CSE Student  
+💻 Full Stack Developer (MERN)  
+🌱 Learning Advanced MERN & AI Integration  
+🎯 Goal → Become Industry-Ready Developer  
+
+</div>
+
+---
+
+## ⚙️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,git,github,vscode&theme=dark" />
 </p>
 
 ---
 
 ## 🚀 Featured Project
 
-### 🌍 Travel Agency Website
+<div align="center">
 
-✨ A responsive and modern travel website to explore destinations and packages
+🌍 **Travel Agency Website**  
+✨ Explore destinations with modern UI  
 
-🔗 **Live Demo:**
-https://ctt-vaishnavi.github.io/TravelAgencyWebsite/
+🔗 https://ctt-vaishnavi.github.io/TravelAgencyWebsite/
+
+</div>
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Insights
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=CTT-Vaishnavi&show_icons=true&theme=radical&border_radius=10" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CTT-Vaishnavi&layout=compact&theme=radical&border_radius=10" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=CTT-Vaishnavi&show_icons=true&theme=tokyonight&border_radius=15" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CTT-Vaishnavi&layout=compact&theme=tokyonight&border_radius=15" height="170"/>
 </p>
 
 ---
 
-## 🔥 GitHub Streak
+## 🔥 Contribution Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=CTT-Vaishnavi&theme=radical&border_radius=10" />
+  <img src="https://streak-stats.demolab.com?user=CTT-Vaishnavi&theme=tokyonight&border_radius=15" />
 </p>
 
 ---
 
 ## 🧠 Currently Learning
 
-* ⚡ Advanced React & Backend Optimization
-* 🤖 AI Integration in Web Apps
-* 🌐 Scalable MERN Architecture
+<p align="center">
+⚡ Advanced React  
+🤖 AI in Web Apps  
+🌐 Scalable Backend Systems  
+</p>
 
 ---
 
-## 📫 Connect With Me
+## 🌐 Connect With Me
 
 <p align="center">
   <a href="https://github.com/CTT-Vaishnavi">
-    <img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github"/>
-  </a>&nbsp;&nbsp;
-  <a href="mailto:shindevai2004@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Send%20Mail-red?style=for-the-badge&logo=gmail"/>
-  </a>&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/vaishnavishinde004/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/>
+    <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github"/>
   </a>
-
+  <a href="mailto:shindevai2004@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Send Mail-D14836?style=for-the-badge&logo=gmail"/>
+  </a>
+  <a href="https://www.linkedin.com/in/vaishnavishinde004/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin"/>
+  </a>
 </p>
 
 ---
 
-## 💖 Fun Touch
+## 💫 Signature Line
 
 <p align="center">
-  💡 <i>"Code. Create. Innovate."</i> 🚀  
+  💖 <b>Design. Build. Grow.</b> 🚀  
 </p>
 
 ---
 
 <p align="center">
-  ⭐ If you like my work, consider giving a star to my repositories!
+  ⭐ If you like my work, don’t forget to star repositories!
 </p>
-
