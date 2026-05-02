@@ -1,33 +1,39 @@
-<!-- HERO SECTION -->
-
-<h1 align="center">🌸 Vaishnavi Shinde</h1>
-
-<h3 align="center">💻 MERN Stack Developer | 🌐 Web Designer | 🚀 Tech Explorer</h3>
-
+<!-- TOP BANNER -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=FF69B4&size=26&center=true&vCenter=true&width=800&lines=Designing+Beautiful+Web+Experiences;Building+Full+Stack+Applications;Turning+Ideas+Into+Reality;Always+Learning+%F0%9F%92%AA" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=FF69B4&height=220&section=header&text=Vaishnavi%20Shinde&fontSize=40&fontColor=ffffff&animation=fadeIn" />
 </p>
-
-
-<p align="center">
-  <a href="https://ctt-vaishnavi.github.io/TravelAgencyWebsite/">
-    <img src="https://img.shields.io/badge/🌐 Live Portfolio-Visit-ff69b4?style=for-the-badge"/>
-  </a>
-  <a href="https://github.com/CTT-Vaishnavi">
-    <img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github"/>
-  </a>
-  <a href="https://www.linkedin.com/in/vaishnavishinde004/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/>
-  </a>
-</p>
-
----
 
 <!-- PROFILE IMAGE -->
 <p align="center">
   <img src="https://github.com/CTT-Vaishnavi/CTT-Vaishnavi/blob/main/IMG-20260502-WA0008-removebg-preview.png" 
        width="230"
-       style="border-radius:50%; box-shadow: 0 0 40px rgba(255,105,180,0.7);" />
+       style="border-radius:50%; box-shadow: 0 0 50px rgba(255,105,180,0.8);" />
+</p>
+
+<!-- NAME -->
+<h1 align="center">🌸 Hi, I'm Vaishnavi Shinde 👋</h1>
+
+<!-- TAGLINE -->
+<h3 align="center">
+💻 MERN Stack Developer | 🌐 Web Designer | 🚀 Tech Explorer
+</h3>
+
+<!-- TYPING EFFECT -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=FF69B4&size=26&center=true&vCenter=true&width=800&lines=Designing+Beautiful+Web+Experiences;Building+Full+Stack+Applications;Turning+Ideas+Into+Reality;Always+Learning+%F0%9F%92%AA" />
+</p>
+
+<!-- BUTTONS -->
+<p align="center">
+  <a href="https://ctt-vaishnavi.github.io/TravelAgencyWebsite/">
+    <img src="https://img.shields.io/badge/🌐 Live Portfolio-Visit-ff69b4?style=for-the-badge"/>
+  </a>
+  <a href="https://github.com/CTT-Vaishnavi">
+    <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github"/>
+  </a>
+  <a href="https://www.linkedin.com/in/vaishnavishinde004/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin"/>
+  </a>
 </p>
 
 ---
@@ -121,5 +127,10 @@ I enjoy combining clean UI design with powerful backend systems to create meanin
 </p>
 
 <p align="center">
-  ⭐ Star your favorite repositories if you like my work!
+  ⭐ If you like my work, consider giving a star to my repositories!
+</p>
+
+<!-- BOTTOM WAVE -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=FF69B4&height=120&section=footer"/>
 </p>
